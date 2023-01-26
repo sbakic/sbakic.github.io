@@ -1,14 +1,9 @@
-[
-  {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.komedhealth.frontend",
-      "sha256_cert_fingerprints": [
-        "3D:15:B6:73:4D:8A:26:A2:9A:57:32:37:9B:F4:0F:FA:6B:C9:BB:BC:F8:37:66:41:E2:F6:F1:94:7A:1B:32:F8"
-      ]
-    }
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.komedhealth.frontend",
+    "sha256_cert_fingerprints":
+    ["3D:15:B6:73:4D:8A:26:A2:9A:57:32:37:9B:F4:0F:FA:6B:C9:BB:BC:F8:37:66:41:E2:F6:F1:94:7A:1B:32:F8"]
   }
-]
+}]
